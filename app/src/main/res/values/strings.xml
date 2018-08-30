@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KotlinSampleProject</string>
+    <string name="add_a_diary">Add \na \nDiary</string>
+    <string name="add_a_diary_1">Add a Diary</string>
+    <string name="add_a_note_1">Add a Note</string>
+    <string name="add_a_to_do_1">Add a To-Do</string>
+    <string name="add_a_note">Add \na \nNote</string>
+    <string name="add_a_to_do_list">Add \na \nTo-Do</string>
+    <string name="date_dummy">Feb 14 (7:12pm)\n2017</string>
+    <string name="add_a_title">Add a title...</string>
+    <string name="write_something">Write something...</string>
+    <string name="how_are_you_feeling">How are you feeling?</string>
+    <string name="save">Save</string>
+    <string name="diary">Diary</string>
+    <string name="note">Note</string>
+    <string name="to_do">To do</string>
+</resources>
