@@ -5,7 +5,7 @@ apply plugin: 'kotlin-kapt'
 
 android {
     compileSdkVersion 27
-    buildToolsVersion "27.0.3"
+    buildToolsVersion '28.0.2'
     defaultConfig {
         applicationId "com.dms"
         minSdkVersion 16
@@ -50,7 +50,7 @@ dependencies {
 
     kapt "com.android.databinding:compiler:$gradle_version"
 
-    debugImplementation 'com.squareup.okhttp3:logging-interceptor:3.3.1'
+    debugImplementation 'com.squareup.okhttp3:logging-interceptor:3.6.0'
 
     //    Dagger library
     implementation "com.google.dagger:dagger:$rootProject.ext.daggerVersion"
